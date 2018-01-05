@@ -5,3 +5,14 @@ __pycache__
 .classpath
 .project
 .settings
+
+
+# idea ignore
+.idea/libraries/*
+.idea/*
+*.ipr
+*.iml
+*/*.iml
+*.iws
+*/idea/libraries/*
+*/idea/
